@@ -44,7 +44,6 @@ public class QuickSortClass {
             count += 2;
         }
 
-
         arr[high] = arr[wall];
         arr[wall] = piv;
         count += 2;
